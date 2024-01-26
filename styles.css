@@ -1,0 +1,33 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.centered-image {
+    max-width: 100%;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #491079;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
